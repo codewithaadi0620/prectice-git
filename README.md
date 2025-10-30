@@ -1,2 +1,3 @@
 # prectice-git
-It is for Prectice purpose.
+It is for Prectice purpose.Adiya.
+
